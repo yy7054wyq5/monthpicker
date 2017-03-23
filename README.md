@@ -3,7 +3,7 @@ jQuery.monthpicker
 
 ![jQuerymonthpicker screenshot](http://lugolabs.com/static/jquery_monthpicker_screenshot.jpg)
 
-Pick month and year with this jQuery plugin.
+Pick month and year with this jQuery plugin.support window resize.
 
 #### Usage
 
